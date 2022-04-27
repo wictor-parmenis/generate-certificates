@@ -12,3 +12,6 @@ jspm_packages
 .dynamodb
 
 package-lock.json
+
+# IDE settings
+.vscode
